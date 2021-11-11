@@ -1,6 +1,2 @@
-# maven-project
-Source code for James Lee's Jenkins course.
-
-Check out our Latest DevOps PDF book.
-
-https://www.level-up.one/devops-pdf-book
+This is my 1st project to test some java based application upload in git.
+I will connect this git repo with Jenkins to build the code using Maven
