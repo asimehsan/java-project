@@ -1,2 +1,1 @@
-Hello, World . Todaye we want to validate the auto git sync in jenkins
-and if I acan see the changes in jenkins home workspace it mean we are done !
+If you can see this page. We have made the jenkins enable to deploy the new updated automatically in tomcat. !
